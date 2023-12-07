@@ -1,0 +1,16 @@
+[
+  {
+    "caption": "goodsceptic: toggle dark/bright",
+    "command": "goodsceptic_toggle_theme",
+  },
+  {
+    "caption": "goodsceptic: lights off",
+    "command": "goodsceptic_select_theme",
+    "args": {"style": "dark"}
+  },
+  {
+    "caption": "goodsceptic: lights on",
+    "command": "goodsceptic_select_theme",
+    "args": {"style": "bright"}
+  }
+]

@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+alt+l"],
+    "command": "goodsceptic_toggle_theme" },
+]
